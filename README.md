@@ -78,7 +78,9 @@ Writing a research report on the simulation of the Fermi-Dirac statistical law u
 
 ### **Interests**  
 - **Volunteer**:  
-  - Tutor for Student Refugee Program (PER), providing computer science refresher courses.  
+  - Tutor for Student Refugee Program (PER), providing computer science refresher courses .
+  - Member of the Event Planning Team at AMGE-Caravane
+  - Organizing Member of the Horizons Forum, Morocco 2023
 - **Athletics**:  
   - Football (School's First team member, École des Ponts).  
   - Completed 22.69 km in 2 hours and 12 minutes (Jogging).  

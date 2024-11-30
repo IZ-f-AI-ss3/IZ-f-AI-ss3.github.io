@@ -2,10 +2,10 @@
 # Faissal IZERMINE
 
 📍 Paris, France  
-🔗 [LinkedIn](https://www.linkedin.com/in/izermine-faissal/)  
 📧 faissalizermine3@gmail.com  
 📱 +33 7 68 06 02 86  
-💻 [GitHub](https://github.com/IZ-f-AI-ss3) 
+💻 [GitHub](https://github.com/IZ-f-AI-ss3)
+🔗 [LinkedIn](https://www.linkedin.com/in/izermine-faissal/)  
 
 ---
 

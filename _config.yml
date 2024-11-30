@@ -1,5 +1,5 @@
 title: Faissal IZERMINE
 logo: /assets/img/picture_web.jpg
 #description: text below image
-#show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal

@@ -1,7 +1,7 @@
 # IZ-f-AI-ss3.github.io
 # Faissal IZERMINE
 📍 Paris, France  
-📧 (firstname)(familyname)3(at)gmail(dot)com
+📧 firstnamefamilyname[3][at]gmail[dot]com
 📱 +33 7 68 06 02 86  
 💻 [GitHub](https://github.com/IZ-f-AI-ss3)
 🔗 [LinkedIn](https://www.linkedin.com/in/izermine-faissal/)  

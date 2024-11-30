@@ -2,10 +2,10 @@
 # Faissal IZERMINE
 
 📍 Paris, France  
-🔗 [LinkedIn](#https://www.linkedin.com/in/izermine-faissal/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/izermine-faissal/)  
 📧 faissalizermine3@gmail.com  
 📱 +33 7 68 06 02 86  
-💻 [GitHub](#https://github.com/IZ-f-AI-ss3) 
+💻 [GitHub](https://github.com/IZ-f-AI-ss3) 
 
 ---
 
@@ -15,14 +15,19 @@
 **Engineering Degree: Department of Mathematical and Computer Engineering**  
 *From September 2022*  
 - **Relevant Coursework**:  
-  - Machine Learning, Deep Learning (TensorFlow, PyTorch), Natural Language Processing (NLP)  
-  - Advanced Programming & Algorithms (C++, Python), Operations Research  
+  - Machine Learning, Deep Learning (TensorFlow, PyTorch)  
+  - Advanced Programming & Algorithms (C++, Python) , Operations research  
+
 - **Achievements**:  
-  - Ranked Top in key subjects: Probability, Stochastic Processes, Control of Dynamical Systems, Statistics  
+  - Ranked top in key subjects, including:  
+    - Probability  
+    - Stochastic Processes  
+    - Control of Dynamical Systems  
+    - Statistics  ...
 
 ### Intensive Preparatory Classes (CPGE) for French Engineering Schools  
 *September 2020 - June 2022*  
-- **Stream**: MPSI/MP*  
+- MPSI/MP*  
 - Two years of intensive courses in Mathematics, Physics, and Computer Science aimed at admission to the most prestigious engineering schools in France.  
 
 ---
@@ -40,25 +45,30 @@
 
 ## 🖥️ Project Experience
 
-### École des Ponts et Chaussées, Paris, France  
-**Computer Vision & Information Processing Course Project**  
-*December 2023 - June 2024*  
-- Implemented Neural Radiance Fields (NeRF) for View Synthesis using PyTorch.  
-- Created a video showcasing a 360-degree view by developing and deploying NeRF models.  
-
 ### Société Générale & École des Ponts, Paris, France  
 **Second-Year Department Project: Bermudean Option Pricing**  
-*April 2024 - June 2024*  
+*December 2023 - June 2024*  
 - Implemented Longstaff & Schwartz and the Rogers methods to determine the upper and lower bounds of the Bermudian option price.  
 - Utilized Deep Learning (TensorFlow and PyTorch) to simultaneously refine and determine these two bounds.  
 
+### École des Ponts et Chaussées, Paris, France  
+**Computer Vision & Information Processing Course Project**  
+*April 2024 - June 2024*  
+- Implemented Neural Radiance Fields (NeRF) for View Synthesis using PyTorch.  
+- Created a video showcasing a 360-degree view by developing and deploying NeRF models.  
+
+### École des Ponts, Paris, France  
+**First-Year Department Project: Bermudean Option Pricing**  
+*January 2023 - June 2023*  
+- Discrete probability, algorithms and statistical physics :
+- Writing a research report on the simulation of the Fermi-Dirac statistical law using the Metropolis-Hastings algorithm.
 ---
 
 ## 🛠️ Skills & Interests  
 
 ### **Skills**  
-- Programming: Python, C++ (Master), Julia, R, SQL  
-- Tools: Git, Linux (Advanced), Latex  
+- Programming: Python(Master), C++ , Julia (Advanced), R, SQL  
+- Tools: Git, Linux, Latex  (Advanced)
 - Libraries/Frameworks: TensorFlow, PyTorch  
 - Certifications:  
   - Natural Language Processing Specialization  
@@ -72,5 +82,5 @@
 - **Volunteer**:  
   - Tutor for Student Refugee Program (PER), providing computer science refresher courses.  
 - **Athletics**:  
-  - Football (First team member, École des Ponts).  
+  - Football (School's First team member, École des Ponts).  
   - Completed 22.69 km in 2 hours and 12 minutes (Jogging).  

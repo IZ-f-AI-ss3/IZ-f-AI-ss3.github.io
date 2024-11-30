@@ -2,6 +2,7 @@
 # Faissal IZERMINE
 📍 Paris, France  
 📧 firstnamefamilyname[3][at]gmail[dot]com
+
 💻 [GitHub](https://github.com/IZ-f-AI-ss3)
 🔗 [LinkedIn](https://www.linkedin.com/in/izermine-faissal/)  
 
@@ -56,8 +57,8 @@
 ### École des Ponts, Paris, France  
 **First-Year Department Project: Bermudean Option Pricing**  
 *January 2023 - June 2023*  
-*Discrete probability, algorithms and statistical physics*
-- Writing a research report on the simulation of the Fermi-Dirac statistical law using the Metropolis-Hastings algorithm.
+**Discrete probability, algorithms and statistical physics**  
+Writing a research report on the simulation of the Fermi-Dirac statistical law using the Metropolis-Hastings algorithm.
 
 ---
 

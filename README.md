@@ -27,7 +27,7 @@
 
 ### Intensive Preparatory Classes (CPGE) for French Engineering Schools  
 *September 2020 - June 2022*  
-- MPSI/MP*  
+**MPSI/MP**
 - Two years of intensive courses in Mathematics, Physics, and Computer Science aimed at admission to the most prestigious engineering schools in France.  
 
 ---
@@ -70,7 +70,7 @@
 - Programming: Python(Master), C++ , Julia (Advanced), R, SQL  
 - Tools: Git, Linux, Latex  (Advanced)
 - Libraries/Frameworks: TensorFlow, PyTorch  
-- Certifications:  
+- Certifications :  
   - Natural Language Processing Specialization  
   - Unsupervised Learning, Recommenders, Reinforcement Learning  
   - Applied Machine Learning in Python  

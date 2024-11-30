@@ -57,7 +57,8 @@
 **First-Year Department Project: Bermudean Option Pricing**  
 *January 2023 - June 2023*  
 *Discrete probability, algorithms and statistical physics*
-  - Writing a research report on the simulation of the Fermi-Dirac statistical law using the Metropolis-Hastings algorithm.
+- Writing a research report on the simulation of the Fermi-Dirac statistical law using the Metropolis-Hastings algorithm.
+
 ---
 
 ## 🛠️ Skills & Interests  

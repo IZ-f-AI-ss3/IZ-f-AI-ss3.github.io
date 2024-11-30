@@ -18,11 +18,9 @@
   - Advanced Programming & Algorithms (C++, Python) , Operations research  
 
 - **Achievements**:  
-  - Ranked top in key subjects, including:  
-    - Probability  
-    - Stochastic Processes  
-    - Control of Dynamical Systems  
-    - Statistics  ...
+  - Ranked among the top in my cohort
+  - Ranked top in key subjects, including :  
+    - Probability, Stochastic Processes, Control of Dynamical Systems, Statistics  ...
 
 ### Intensive Preparatory Classes (CPGE) for French Engineering Schools  
 *September 2020 - June 2022*  

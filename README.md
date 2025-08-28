@@ -38,15 +38,16 @@
 - Fine-tuned LLMs and adapted retrievers for specific tasks and client applications, utilizing both open-source and proprietary models to maximize performance on tailored use cases while ensuring alignment with client-specific data.  
 - Contributed significantly to key NLP initiatives, including message clustering and ticket categorization, which enhanced product performance and improved client satisfaction.  
 
+### Technology Innovation Institute, Abu Dhabi Emirate, United Arab Emirates
+**Research intern - Reasoning**  
+*April 2025 - September 2025*  
+Reasoning Team · Falcon LLM :
+- Exploring a wide range of research directions in reasoning, and experimenting with ideas from the latest papers.
+- Contributing to the development pipeline for upcoming Falcon releases (in progress).
+  
 ---
 
 ## 🖥️ Project Experience
-
-### Société Générale & École des Ponts, Paris, France  
-**Second-Year Department Project: Bermudean Option Pricing**  
-*December 2023 - June 2024*  
-- Implemented Longstaff & Schwartz and the Rogers methods to determine the upper and lower bounds of the Bermudian option price.  
-- Utilized Deep Learning (TensorFlow and PyTorch) to simultaneously refine and determine these two bounds.  
 
 ### École des Ponts et Chaussées, Paris, France  
 **Computer Vision & Information Processing Course Project**  
@@ -54,10 +55,16 @@
 - Implemented Neural Radiance Fields (NeRF) for View Synthesis using PyTorch.  
 - Created a video showcasing a 360-degree view by developing and deploying NeRF models.  
 
+### Société Générale & École des Ponts, Paris, France  
+**Second-Year Department Project: Bermudean Option Pricing**  
+*December 2023 - June 2024*  
+- Implemented Longstaff & Schwartz and the Rogers methods to determine the upper and lower bounds of the Bermudian option price.  
+- Utilized Deep Learning (TensorFlow and PyTorch) to simultaneously refine and determine these two bounds.  
+
+
 ### École des Ponts, Paris, France  
-**First-Year Department Project: Bermudean Option Pricing**  
-*January 2023 - June 2023*  
 **Discrete probability, algorithms and statistical physics**  
+*January 2023 - June 2023*  
 Writing a research report on the simulation of the Fermi-Dirac statistical law using the Metropolis-Hastings algorithm.
 
 ---

@@ -31,13 +31,6 @@
 
 ## 💼 Work Experience
 
-### KLARK, Bordeaux, France  
-**NLP Research Intern**  
-*July 2024 - January 2025*  
-- Optimized and enhanced RAG system and LLM agent workflows, seamlessly integrating with over 50 diverse client CRM platforms using API-driven data pipelines.  
-- Fine-tuned LLMs and adapted retrievers for specific tasks and client applications, utilizing both open-source and proprietary models to maximize performance on tailored use cases while ensuring alignment with client-specific data.  
-- Contributed significantly to key NLP initiatives, including message clustering and ticket categorization, which enhanced product performance and improved client satisfaction.  
-
 ### Technology Innovation Institute, Abu Dhabi Emirate, United Arab Emirates
 **Research intern - Reasoning**  
 *April 2025 - September 2025*  
@@ -45,6 +38,14 @@ Reasoning Team · Falcon LLM :
 - Exploring a wide range of research directions in reasoning, and experimenting with ideas from the latest papers.
 - Contributing to the development pipeline for upcoming Falcon releases (in progress).
   
+### KLARK, Bordeaux, France  
+**NLP Research Intern**  
+*July 2024 - January 2025*  
+- Optimized and enhanced RAG system and LLM agent workflows, seamlessly integrating with over 50 diverse client CRM platforms using API-driven data pipelines.  
+- Fine-tuned LLMs and adapted retrievers for specific tasks and client applications, utilizing both open-source and proprietary models to maximize performance on tailored use cases while ensuring alignment with client-specific data.  
+- Contributed significantly to key NLP initiatives, including message clustering and ticket categorization, which enhanced product performance and improved client satisfaction.  
+
+
 ---
 
 ## 🖥️ Project Experience

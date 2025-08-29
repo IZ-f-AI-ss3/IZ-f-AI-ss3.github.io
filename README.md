@@ -46,7 +46,7 @@ Reasoning Team · Falcon LLM :
 - Contributing to the development pipeline for upcoming Falcon releases (in progress).
   
 ### KLARK, Bordeaux, France  
-**NLP Research Intern**  
+**NLP R&D Intern**  
 *July 2024 - January 2025*  
 - Optimized and enhanced RAG system and LLM agent workflows, seamlessly integrating with over 50 diverse client CRM platforms using API-driven data pipelines.  
 - Fine-tuned LLMs and adapted retrievers for specific tasks and client applications, utilizing both open-source and proprietary models to maximize performance on tailored use cases while ensuring alignment with client-specific data.  

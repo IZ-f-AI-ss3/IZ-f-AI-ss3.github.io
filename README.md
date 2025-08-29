@@ -20,7 +20,8 @@
 **Engineering Degree: Department of Mathematical and Computer Engineering**  
 *From September 2022*  
 - **Relevant Coursework**:  
-  - Machine Learning, Deep Learning (TensorFlow, PyTorch)  
+  - Machine Learning, Deep Learning (TensorFlow, PyTorch)
+  - Mathematics (Statistics, Probability, Stochastic Processes, Control of Dynamical Systems)
   - Advanced Programming & Algorithms (C++, Python) , Operations research  
 
 - **Achievements**:  

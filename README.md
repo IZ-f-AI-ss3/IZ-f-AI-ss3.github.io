@@ -10,6 +10,12 @@
 
 ## 🎓 Education
 
+### École normale supérieure Paris-Saclay (ENS), Paris, France  
+**Master Degree: Master MVA (Mathématiques, Vision, Apprentissage) **  
+*From September 2025*  
+- **Relevant Coursework**:  
+  - Mathematics, Machine Learning, and Computer Vision 
+  
 ### École des Ponts et Chaussées, Paris, France  
 **Engineering Degree: Department of Mathematical and Computer Engineering**  
 *From September 2022*  
